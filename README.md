@@ -14,7 +14,7 @@ The purpose of this project is to build the back end for an e-commerce site. I t
 https://drive.google.com/file/d/1zOysnEDbq5pIt2Cyl150uTuFCfER8NfZ/view?usp=sharing
 
 ## Postman/Insomnia Collection
-You may use this collection for testinng.
+You may use this collection for testing.
 [E-commerce Back End.postman_collection.zip](https://github.com/nasirahmed422/E-commerce-Back-End/files/7833735/E-commerce.Back.End.postman_collection.zip)
 
 ## Contribution
